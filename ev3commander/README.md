@@ -1,6 +1,6 @@
 # [ev3commander](https://github.com/ev3commander)'s sandbox
 
-Let me ([@ontouchstart](https://github.com/ontouchstart) give it a try:
+Let me ([@ontouchstart](https://github.com/ontouchstart)) give it a try:
 
 _italic_
 
