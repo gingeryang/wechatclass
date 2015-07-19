@@ -1,6 +1,6 @@
-# [ev3commander](github.com/ev3commander)'s sandbox
+# [ev3commander](https://github.com/ev3commander)'s sandbox
 
-Let me (@ontouchstart) give it a try:
+Let me ([@ontouchstart](https://github.com/ontouchstart) give it a try:
 
 _italic_
 
@@ -8,9 +8,13 @@ _italic_
 
 Link to [百度](http://www.baidu.com/)
 
+Numbered list
+
 1. one
 2. two
 3. three
+
+Bullet points
 
 - bullet one
 - bullet two
