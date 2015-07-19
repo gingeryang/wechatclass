@@ -7,8 +7,7 @@ Notes
 |### Another deeper heading                  | ### |
 |--------------------------------------------|-----|
 |  Paragraphs are separated by a blank line  |     |
-| Leave 2 spaces at the end of a line to     | __  |
-| do a line break                            |     |
+| Leave 2 spaces at the end for line break   | __  |
 | *italic*                                   |*    |
 | **bold**                                   |**   |
 | `monospace`                                |\`   |
