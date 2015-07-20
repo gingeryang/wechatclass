@@ -21,3 +21,5 @@ Bullet points
 - bullet three
 
 ![baidu logo](http://www.baidu.com/img/bd_logo1.png)
+ev3commander's turn
+$$/frac{31}{62} = 0.5$$
