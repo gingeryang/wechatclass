@@ -23,4 +23,3 @@ Bullet points
 ![baidu logo](http://www.baidu.com/img/bd_logo1.png)  
 ev3commander's turn  
 <h1>woo html</h1>
-<script src="/test.js"></script>
