@@ -1,1 +1,1 @@
-# Sandbox for [whan48](https://github.com/wan48)
+# Sandbox for [whan48](https://github.com/whan48)
