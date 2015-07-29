@@ -14,7 +14,7 @@ Meta data (元数据）的意思就是"醉翁之意不在酒"。
 A: 今天我们试个新形式，四十五分钟讨论（8:00-8:45）。美国这边上班路上。[Smile]
 今天的题目就是 
 
--[22岁，天使轮估值超过6亿，将颠覆整个视频和广告行业｜Via直播报名
+- [22岁，天使轮估值超过6亿，将颠覆整个视频和广告行业｜Via直播报名
 ](http://mp.weixin.qq.com/s?__biz=MzAwNzAwMjkxMA==&mid=207233029&idx=1&sn=74c1703beaed7484a29880dcd1102c5d&scene=1&isappinstalled=0#rd)
 
 - http://www.zhihu.com/question/27297651
