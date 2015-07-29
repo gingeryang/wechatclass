@@ -29,3 +29,6 @@ B: 讨论中提到的链接
 ](http://mp.weixin.qq.com/s?__biz=MzAxMTIxODIzMw==&mid=211694950&idx=2&sn=8a723ad4d93f68118fb1031f6ea67258&scene=1&isappinstalled=0#rd)
 
 - [今天是中国互联网创业史最狗血的一天！因为有人昨天发布了一辆号称比拟特斯拉的电动车！](http://mp.weixin.qq.com/s?__biz=MzA5NjIzNjgxNw==&mid=210787147&idx=1&sn=c8682b039bc9ebd552ee08a206ee31b0&scene=1&isappinstalled=0#rd)
+
+- [创业| "一亩田"万亿奇迹疑云，夸张与欺骗其实只隔一层纸
+](http://mp.weixin.qq.com/s?__biz=MjM5NjM5Njk2Mg==&mid=208580717&idx=1&sn=277a5cb17484501b4ca8803d66d9a0cf&scene=1&isappinstalled=0#rd)
