@@ -32,3 +32,5 @@ B: 讨论中提到的链接
 
 - [创业| "一亩田"万亿奇迹疑云，夸张与欺骗其实只隔一层纸
 ](http://mp.weixin.qq.com/s?__biz=MjM5NjM5Njk2Mg==&mid=208580717&idx=1&sn=277a5cb17484501b4ca8803d66d9a0cf&scene=1&isappinstalled=0#rd)
+
+- [一个月前，我绝不敢把「无耻」用在创业者身上](http://mp.weixin.qq.com/s?__biz=MjM5MzYwNTI2MQ==&mid=208136332&idx=1&sn=45ad97dffa491cc7c3d8944e8a4d772c&scene=2&isappinstalled=0#rd)
