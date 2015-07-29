@@ -20,3 +20,5 @@ A: 今天我们试个新形式，四十五分钟讨论（8:00-8:45）。美国�
 - http://www.zhihu.com/question/27297651
 
 - https://www.crunchbase.com/organization/venvy
+
+大家先仔细看第一个微信广告, 评论一下自己到底明白他们在做什么？我们群里高手林立, 有疑问大家互相解答, 然后我再从大数据角度讨论总结一下, 这就是今天45分钟网课的计划. 大家踊跃参与[Shake][Fight]
