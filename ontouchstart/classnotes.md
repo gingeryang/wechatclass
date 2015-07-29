@@ -17,7 +17,7 @@ A: 今天我们试个新形式，四十五分钟讨论（8:00-8:45）。美国�
 - [22岁，天使轮估值超过6亿，将颠覆整个视频和广告行业｜Via直播报名
 ](http://mp.weixin.qq.com/s?__biz=MzAwNzAwMjkxMA==&mid=207233029&idx=1&sn=74c1703beaed7484a29880dcd1102c5d&scene=1&isappinstalled=0#rd)
 
-- http://www.zhihu.com/question/27297651
+- [云视链是什么？](http://www.zhihu.com/question/27297651)
 
 - https://www.crunchbase.com/organization/venvy
 
