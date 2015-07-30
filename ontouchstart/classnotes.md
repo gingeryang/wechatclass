@@ -10,7 +10,9 @@
 ####GitHub Raises $250 Million at $2 Billion Valuation
 ##### Capital raise puts company’s total funding at $350 million
 
-[WSJ](http://www.wsj.com/article_email/github-raises-250-million-at-2-billion-valuation-1438206722-lMyQjAxMTA1NjI1OTEyNzk0Wj)
+- [TechCrunch](http://techcrunch.com/2015/07/29/github-raises-250m-series-b-round-to-take-risks/)
+
+- [WSJ](http://www.wsj.com/article_email/github-raises-250-million-at-2-billion-valuation-1438206722-lMyQjAxMTA1NjI1OTEyNzk0Wj)
 
 大家从自己角度读这篇文章，分享一下看法。仁者见仁智者见智。
 
