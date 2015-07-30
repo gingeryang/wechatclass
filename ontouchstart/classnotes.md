@@ -14,6 +14,8 @@
 
 - [WSJ](http://www.wsj.com/article_email/github-raises-250-million-at-2-billion-valuation-1438206722-lMyQjAxMTA1NjI1OTEyNzk0Wj)
 
+- [Bootstrapped, Profitable, & Proud: GitHub](https://signalvnoise.com/posts/2486-bootstrapped-profitable-proud-github) 五年前的文章
+
 大家从自己角度读这篇文章，分享一下看法。仁者见仁智者见智。
 
 ### 以前的讨论
