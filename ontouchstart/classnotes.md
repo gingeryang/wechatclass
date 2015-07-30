@@ -18,6 +18,12 @@
 
 大家从自己角度读这篇文章，分享一下看法。仁者见仁智者见智。
 
+### 讨论中提到的链接
+
+- [A gallery of interesting IPython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)
+
+- [Probabilistic Programming and Bayesian Methods for Hackers](http://nbviewer.ipython.org/github/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/blob/master/Chapter1_Introduction/Chapter1.ipynb)
+
 ### 以前的讨论
 
 - [2015-07-18](2015-07-18.md)
