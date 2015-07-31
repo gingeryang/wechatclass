@@ -29,7 +29,7 @@
 - [Garbage in, garbage out](https://en.m.wikipedia.org/wiki/Garbage_in,_garbage_out)
 - [Correlation and causality](https://www.khanacademy.org/math/probability/regression/regression-correlation/v/correlation-and-causality)
 - [Data Algorithms Book](http://shop.oreilly.com/product/mobile/0636920033950.do)
-- 
+
 ### 以前的讨论
 
 - [2015-07-18](2015-07-18.md)
