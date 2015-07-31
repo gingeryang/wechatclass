@@ -23,7 +23,13 @@
 
 群里这方面的专家不少，大家一起探讨。
 
+### 讨论中提到的链接
 
+- [男人做家务容易痴呆](http://mp.weixin.qq.com/s?__biz=MzIzODAyMTE5Mg==&mid=208699654&idx=1&sn=f0292c384d0976a9fe1e6c4c013081a2)
+- [Garbage in, garbage out](https://en.m.wikipedia.org/wiki/Garbage_in,_garbage_out)
+- [Correlation and causality](https://www.khanacademy.org/math/probability/regression/regression-correlation/v/correlation-and-causality)
+- [Data Algorithms Book](http://shop.oreilly.com/product/mobile/0636920033950.do)
+- 
 ### 以前的讨论
 
 - [2015-07-18](2015-07-18.md)
