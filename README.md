@@ -1,13 +1,13 @@
-# 大数据网课 
+# 大數據網課 
 
-([更新记录](https://github.com/bigdata-mindstorms/wechatclass/commits/master))
+([更新記錄](https://github.com/bigdata-mindstorms/wechatclass/commits/master))
 
-欢迎新老同学。本网课群是一个独特的跨时区，跨专业，实时互动与网络共享结合的开源开放网课。欢迎大家积极参与或者非积极潜水。积极参与者请注册[GitHub](https://github.com/join)账号并把用户名通知本群。加入的同学可以有自己的目录区 (见[列表](https://github.com/bigdata-mindstorms/wechatclass?files=1)).
+歡迎新老同學。本網課群是一個獨特的跨時區，跨專業，實時互動與網絡共享結合的開源開放網課。歡迎大家積極參與或者非積極潛水。積極參與者請註冊[GitHub](https://github.com/join)賬號並把用戶名通知本群。加入的同學可以有自己的目錄區 (見[列表](https://github.com/bigdata-mindstorms/wechatclass?files=1)).
 
-本群不是一个纯技术课，不需要编程基础。讨论和信息交流为主，跨界文理兼容，重在共同学习大数据思想和应用。没有性别年龄限制，目前最小同学的年龄不到九岁。😀👍🏻
+本群不是一個純技術課，不需要編程基礎。討論和信息交流為主，跨界文理兼容，重在共同學習大數據思想和應用。沒有性別年齡限制，目前最小同學的年齡不到九歲。😀👍🏻
 
-- [群主的课堂笔记](https://github.com/bigdata-mindstorms/wechatclass/blob/master/ontouchstart/classnotes.md)
+- [群主的課堂筆記](https://github.com/bigdata-mindstorms/wechatclass/blob/master/ontouchstart/classnotes.md)
 
-我们提倡利用微信平台无纪录自由讨论(有微信的朋友可以扫以下二维码入群), 有持续性可以深入讨论的话题可以使用[GH的讨论群](https://github.com/bigdata-mindstorms/wechatclass/issues)，其优点有保留纪录，email通知等。 
+我們提倡利用微信平台無紀錄自由討論(有微信的朋友可以掃以下二維碼入群), 有持續性可以深入討論的話題可以使用[GH的討論群](https://github.com/bigdata-mindstorms/wechatclass/issues)，其優點有保留紀錄，email通知等。 
 
 ![QR](QR.png)
