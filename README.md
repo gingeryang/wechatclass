@@ -1,4 +1,6 @@
-# 大数据网课
+# 大数据网课 
+
+([更新记录](https://github.com/bigdata-mindstorms/wechatclass/commits/master))
 
 欢迎新老同学。本网课群是一个独特的跨时区，跨专业，实时互动与网络共享结合的开源开放网课。欢迎大家积极参与或者非积极潜水。积极参与者请注册[GitHub](https://github.com/join)账号并把用户名通知本群。加入的同学可以有自己的目录区 (见[列表](https://github.com/bigdata-mindstorms/wechatclass?files=1)).
 
