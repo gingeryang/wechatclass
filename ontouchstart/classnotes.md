@@ -6,6 +6,11 @@
 
 本群老师和学生学术平等，大家请在[自己的目录](https://github.com/bigdata-mindstorms/wechatclass?files=1)下建立/修改笔记和文档。谢谢支持。
 
+### 现在的讨论
+
+- [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+
+
 
 ### 以前的讨论
 
