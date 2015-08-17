@@ -8,12 +8,12 @@
 
 ### 现在的讨论
 
-- [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 
 
 
 ### 以前的讨论
 
+- [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/) （2015-08-05）
 - 自学编程，十年磨一剑 [2015-08-03](2015-08-03.md)
 - 长尾理论 [2015-08-02](2015-08-02.md)
 - 数字心理学 [2015-08-01](2015-08-01.md)
