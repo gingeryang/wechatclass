@@ -8,7 +8,7 @@
 
 ### 现在的讨论
 
-
+- [Project Jupyter: Computational Narratives as the Engine of Collaborative Data Science](http://blog.jupyter.org/2015/07/07/project-jupyter-computational-narratives-as-the-engine-of-collaborative-data-science/)
 
 
 ### 以前的讨论
