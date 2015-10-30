@@ -8,11 +8,12 @@
 
 ### 现在的讨论
 
-- [Project Jupyter: Computational Narratives as the Engine of Collaborative Data Science](http://blog.jupyter.org/2015/07/07/project-jupyter-computational-narratives-as-the-engine-of-collaborative-data-science/)
+- [Making Sense of Dell + EMC + VMware](http://a16z.com/2015/10/26/dell-emc-vmware/)
 
 
 ### 以前的讨论
 
+- [Project Jupyter: Computational Narratives as the Engine of Collaborative Data Science](http://blog.jupyter.org/2015/07/07/project-jupyter-computational-narratives-as-the-engine-of-collaborative-data-science/)
 - [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/) （2015-08-05）
 - 自学编程，十年磨一剑 [2015-08-03](2015-08-03.md)
 - 长尾理论 [2015-08-02](2015-08-02.md)
