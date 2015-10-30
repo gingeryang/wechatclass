@@ -8,6 +8,5 @@
 
 - [群主的課堂筆記](https://github.com/bigdata-mindstorms/wechatclass/blob/master/ontouchstart/classnotes.md)
 
-我們提倡利用微信平台無紀錄自由討論(有微信的朋友可以掃以下二維碼入群), 有持續性可以深入討論的話題可以使用[GH的討論群](https://github.com/bigdata-mindstorms/wechatclass/issues)，其優點有保留紀錄，email通知等。 
+我們提倡利用微信平台無紀錄自由討論, 有持續性可以深入討論的話題可以使用[GH的討論群](https://github.com/bigdata-mindstorms/wechatclass/issues)，其優點有保留紀錄，email通知等。 
 
-![QR](QR.png)
